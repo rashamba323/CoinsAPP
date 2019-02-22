@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoinsAPP</string>
+    <string name="item_prise">%.2f$</string>
+    <string name="item_percent_change">%.2f%%</string>
+    <string name="sort_price">sort price</string>
+    <string name="sort_precent">sort precent</string>
+</resources>
